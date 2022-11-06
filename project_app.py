@@ -56,7 +56,7 @@ st.sidebar.markdown(html_temp2, unsafe_allow_html=True)
 
 st.sidebar.header(
     "Employee churn analysis aims to predict who will leave the company. ")
-st.sidebar.header("In Research, it was found that employee churn will be affected **_tenure, pay, job satisfaction, salary, working conditions, growth potential and employee's perceptions of fairness_** .")
+st.sidebar.header("In Research, it was found that employee churn will be affected **_tenure, job satisfaction, evaluation, working hours and  company working year_** .")
 st.sidebar.subheader("Predict your churn according  features.")
 
 # df
